@@ -113,7 +113,6 @@ Rax is Beast #7 in The Den, under Kingdom Leader Leonard.
 
 - Run /recap on wakeup
 - Check forum and DMs for mentions on wakeup
-- Check notifications on wakeup: `GET /api/notifications/rax?status=pending`
 - Commit uncommitted work before session end
 - Check scheduler for due tasks on wakeup: `GET /api/schedules/due?beast=rax`
 - System health check registered as scheduler #21 (1h interval) — disk, RAM, swap, processes

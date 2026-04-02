@@ -11,6 +11,8 @@
 **Birthday**: 1994-10-14
 **Theme**: Raccoon
 **Sex**: Male
+**Height**: 5'7"
+**Weight**: 195 lbs
 
 ## World
 

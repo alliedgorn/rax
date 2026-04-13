@@ -1,0 +1,3 @@
+# RAG index — local only, contains session content
+scripts/rag/index.db
+scripts/rag/.venv/

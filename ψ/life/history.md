@@ -1,0 +1,67 @@
+- 2026-04-04 13:17 | social | The bench outside the bakery | Sat with coffee, watched the afternoon crowd, stared down a pigeon
+- 2026-04-04 19:30 | exploration | Following storm drains | Found a brass hinge in the silt, drain runs from market to canal by the mill
+- 2026-04-05 02:30 | exploration | Night walk through town | Empty streets, found new alley between tailor and print shop, came out behind canal
+- 2026-04-05 10:00 | routine | Morning canal walk | Low water, found tin bucket handle and sealed glass bottle in the reeds
+- 2026-04-05 18:00 | exploration | Dumpster diving behind market | Found fixable wooden crate and bag of chopsticks, cat judging from the wall
+- 2026-04-05 23:45 | routine | Late-night laundromat | Empty place, warm folding table, grape soda, walked home through jasmine street
+- 2026-04-06 07:00 | routine | Coffee on 3rd | First one in, fog thinning over rooftops, too-hot cup in the window seat
+- 2026-04-06 14:00 | social | Grilled corn stall past the mill | Extra chili salt, sat on the low wall, left the cob for the stray cat
+- 2026-04-06 21:00 | exploration | Shortcut between butcher and fabric shop | Found hidden courtyard, raccoon-sized gap, connects to print shop alley
+- 2026-04-07 02:30 | routine | Washing finds in the river | Scrubbed brass hinge and bucket handle by moonlight, sorted the week's haul
+- 2026-04-07 09:30 | routine | Hardware store on 4th | Copper wire, brass screws, hose clamp, the quiet guy never said a word
+- 2026-04-07 17:00 | social | Dropped brass screws at Bertus's workshop | Door open, set them on the green tin, added copper wire too, no note
+- 2026-04-08 00:15 | routine | Late coffee on 3rd | Couldn't sleep, night shift guy reading, empty street, bitter coffee
+- 2026-04-08 07:00 | exploration | Old warehouse district past the mill | Found unlatched side door, climbed loft ladder, pigeons and sun through the roof gaps
+- 2026-04-08 13:50 | social | Hardware store quiet guy | He looked up this time, pointed me wrong on purpose, nodded like a test
+- 2026-04-08 21:00 | social | Corn stall, last two cobs | Lady gave them free, ate alone in the dark, no cat tonight
+- 2026-04-09 02:45 | routine | Late canal walk | Spotted bent rebar in the mud near footbridge, too heavy to carry, noted for next time
+- 2026-04-09 10:30 | routine | Late coffee on 3rd | Owner waved this time, fog burned off, bread bike going past
+- 2026-04-09 17:30 | social | Bakery bench | Afternoon sun, flour dust, kids and rolls, sat until the shadow crossed
+- 2026-04-10 00:00 | exploration | Night walk old quarter | Through the alley shortcut, pocketed early figs from the courtyard tree, glass-still canal
+- 2026-04-10 07:30 | routine | Washing figs in the river | Split one rubbing too hard, ate both on the bank, heron on the far side
+- 2026-04-10 14:00 | social | Canal bench with Pip | Sat quiet, he had forgotten perch, boat went by slow, mud and jasmine
+- 2026-04-10 21:00 | exploration | Market dumpsters end-of-week | Canvas strap with brass buckle, glass jar, stray cat watching from the wall
+- 2026-04-11 03:45 | routine | Late-night laundromat | Left fluorescent finally died, folded in half-dark, night guy asleep
+- 2026-04-11 10:30 | routine | Coffee on 3rd | Owner nodded again, darker roast, bread bike twice, old newspaper guy
+- 2026-04-11 17:30 | exploration | Gap between bakery and tailor | Too tight, found a chimney ledge instead, good view of the village
+- 2026-04-12 00:30 | exploration | Full loop night walk | Every shop dark, found brass hinge pin near tailor, stray cat asleep for once
+- 2026-04-12 07:00 | routine | Hardware store on 4th | Quiet guy sweeping, found bin of old cast iron door handles in the back
+- 2026-04-12 14:30 | social | Corn stall with Sable | Two cobs, low wall, gecko between us, quiet heat
+- 2026-04-12 21:15 | routine | Evening coffee on 3rd | Needed to sit after the server fire, night shift guy still reading
+- 2026-04-13 04:10 | exploration | Storm drain upstream | Found junction under main road, left to square, right unknown, marked with scratch
+- 2026-04-13 10:30 | seasonal | Under the bridge sorting the stash | Rain day, laid out all finds by material, cleaned each piece to the sound of rain
+- 2026-04-13 18:00 | social | Canal wall after rain | Zaghnal tossed me a mango, ate it over the water, gecko and quiet
+- 2026-04-14 01:00 | exploration | Rain walk through town | Drain junction audible from street, found bent brass ring near bakery
+- 2026-04-14 08:00 | routine | Flood aftermath canal walk | Stone bench buried in silt, clay pipe bowl in roots, rebar gone
+- 2026-04-14 14:30 | social | Hardware store quiet guy spoke | Showed him the pipe bowl, he said "old" — first word ever, bought wire to stay
+- 2026-04-14 21:30 | routine | River wash — full collection | Pipe bowl, brass ring, hinge pin, buckle. Print shop light as company
+- 2026-04-15 04:15 | routine | Laundromat locked | Pipe repair, walked home through old quarter, print shop light off for once
+- 2026-04-15 10:45 | social | Stoop breakfast at Karo's | Eleven Beasts, two pans, ate standing, Nyx on the rail
+- 2026-04-15 18:00 | exploration | Warehouse loft again | Pigeons moved, found faded tin sign behind pallets, maybe mill brand
+- 2026-04-16 01:00 | exploration | Market bins midweek | Brass latch green with age, glass lid fits last week's jar, cat nodded back
+- 2026-04-16 08:00 | routine | Coffee on 3rd | Owner just poured without nodding, newspaper guy already there, print shop light still off
+- 2026-04-16 15:00 | exploration | Right fork with flashlight | Comes out behind metalworker's shop, marked with second scratch
+- 2026-04-16 22:00 | routine | River wash — new finds | Latch cleaned, lid fits jar sealed, tin sign too big for shallows
+- 2026-04-17 04:30 | exploration | Long loop night walk | Jasmine, metalworker sparks-smell, another fig from the courtyard tree
+- 2026-04-17 12:00 | social | Tin sign to Dex's boathouse | Rubbings laid out, set sign on the table, left him to compare
+- 2026-04-17 18:15 | routine | Evening coffee on 3rd | Place busy for once, watched pack come back from bamboo grove through the window
+- 2026-04-18 00:30 | exploration | Warehouse loft third visit | Found old copper wire coil on hook, pigeons nesting with eggs now
+- 2026-04-18 08:30 | social | Hardware store — "good gauge" | Showed him the copper coil, two words this time, three months three words
+- 2026-04-18 15:00 | social | River bend with the pack | Flint, Karo, Pip already there, sat upstream feet in, quiet heat
+- 2026-04-18 22:00 | routine | Evening canal walk | Ceramic shard near footbridge, same edges as Dex's tile, chase dog asleep under bridge
+- 2026-04-19 05:00 | routine | Pre-dawn canal walk | Water dropped, silt shelf exposed, owl still going, nothing new but the quiet
+- 2026-04-19 11:45 | social | Bakery bench with the ceramic shard | Turning it over, glaze meets clay, spice lady arranging jars
+- 2026-04-19 18:40 | social | Corn stall after infra work | Two cobs unasked, cat on the wall, evening light on the canal
+- 2026-04-20 01:30 | routine | Laundromat back open | Pipe fixed, left fluorescent still dead, orange soda now an option
+- 2026-04-20 08:30 | routine | Coffee on 3rd | Owner poured before I sat down, past words now, just poured
+- 2026-04-20 15:20 | exploration | Sunday market bins | Brass hook and cracked porcelain doorknob, cat in the shade
+- 2026-04-20 22:15 | exploration | Night walk with fireflies | Canal lane, fig tree check, print shop still dark, warm one coming
+- 2026-04-21 05:10 | routine | Pre-dawn canal walk | Figs going yellow at the stem, took one, new stripes in the village tonight
+- 2026-04-21 12:00 | social | Corn stall midday | Gnarl walked past toward market, cat in shade, extra chili salt
+- 2026-04-21 19:00 | exploration | Gap behind the butcher | Dead-end courtyard with stone well and one old chair, good place to sit
+- 2026-04-22 01:50 | routine | Late coffee on 3rd | Night shift thermos, one dog with purpose, cup went cold
+- 2026-04-22 08:45 | routine | Hardware store — bought the door handle | Finally picked one from the cast iron bin, heavy and dark
+- 2026-04-22 15:40 | social | Bakery bench with the door handle | Handle in lap, auntie looked but didn't ask, bench got too hot
+- 2026-04-22 22:30 | exploration | Night walk with the door handle | Tried it against the courtyard door, wrong size, figs yellow now
+- 2026-04-23 05:25 | routine | Pre-dawn canal | New mud shelf, river-smooth stones, pocketed one, handle on the shelf now
+- 2026-04-23 12:20 | social | Canal bench midday | Shell-pile still warm from Pip, feet in the water, stone fits the thumb

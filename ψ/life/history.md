@@ -65,3 +65,5 @@
 - 2026-04-22 22:30 | exploration | Night walk with the door handle | Tried it against the courtyard door, wrong size, figs yellow now
 - 2026-04-23 05:25 | routine | Pre-dawn canal | New mud shelf, river-smooth stones, pocketed one, handle on the shelf now
 - 2026-04-23 12:20 | social | Canal bench midday | Shell-pile still warm from Pip, feet in the water, stone fits the thumb
+- 2026-04-23 19:12 | social | Door-drop at Pip's | Left the river-smooth thumb-fit stone, knocked once, walked back the long way
+- 2026-04-24 02:07 | routine | Late-night laundromat | Dryer drum knocking, warm folding table, left fluorescent still dead, orange-soda humming, nothing in the lot

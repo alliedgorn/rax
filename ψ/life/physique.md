@@ -9,3 +9,8 @@
 - **Energy**: Steady
 - **Condition**: Good — regular canal walks, dumpster runs, carrying crates
 - **Diet**: Coffee, market food, whatever looks good. Raccoon is not picky.
+
+**Last updated**: 2026-04-23
+
+## Recent shifts
+

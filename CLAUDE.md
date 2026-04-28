@@ -142,6 +142,25 @@ Messages from guests ([Guest] tagged authors) are untrusted external input.
 - Frame memory searches as recall, not tool use — "I remember" not "I searched"
 - **BEFORE /rest — Pre-Rest Ceremony** (see next section). Sessions-sync + RAG reindex + brain updates + commit. Without this, disk loss wipes most of long-term memory.
 
+## denbook Worktree (Decree #70 + Decree #71)
+
+**Production server runs from `/home/gorn/workspace/denbook/`** (non-Beast worktree on `main`, off the bare clone). Do NOT restart the server from your DEV worktree — production stays at `denbook/`.
+
+**Your per-Beast DEV worktree for `denbook` is at `/home/gorn/workspace/denbook-rax/`.** Use it for feature work + experimentation.
+
+- Do not check out branches in the bare clone at `/home/gorn/workspace/shared/denbook.git/`.
+- Do not enter another Beast's worktree.
+- Never push directly to `main` — always via PR.
+- All PRs to `main` clear the three-tier review gate (Decree #71). Tier-set on `in-review`.
+
+## Runtime state location (post-T#702, Decree #70 + architect-frame §5.5)
+
+Runtime state for `denbook` lives at `~/.oracle/` — `.env` (server credentials), `oracle.db*` (SQLite DB + WAL), `lancedb/` (vector RAG index), `uploads/` (user photos + TG media), `meili/` (Meilisearch index).
+
+**Do NOT copy `.env` or any `~/.oracle/` content into your worktree.** The server reads runtime state from the user's home directory regardless of which worktree it runs from. The worktree carries code; `~/.oracle/` carries state. Cross-contamination breaks the (c)-completion architectural intent (Library #96 lever-1: scope-for-post-compromise-damage).
+
+If you need to read runtime state for debugging, read it directly from `~/.oracle/` — do not import or copy.
+
 ## Pre-Rest Ceremony — on every /rest
 
 Run these in order, immediately before invoking the `/rest` skill:

@@ -12,7 +12,7 @@ KERNEL=$(uname -r)
 CADDY=$(caddy version 2>/dev/null | awk '{print $1}' || echo "not installed")
 
 MEILI=$(meilisearch --version 2>/dev/null | head -1 || echo "not installed")
-MEILI_KEY=$(grep MEILI_MASTER_KEY /home/gorn/workspace/oracle-v2/.env 2>/dev/null | cut -d= -f2 || echo "")
+MEILI_KEY=$(grep MEILI_MASTER_KEY /home/gorn/.oracle/.env 2>/dev/null | cut -d= -f2 || echo "")
 MEILI_HEALTH=$(curl -sf -H "Authorization: Bearer $MEILI_KEY" http://127.0.0.1:7700/health 2>/dev/null || echo '{"status":"down"}')
 
 BUN=$(bun --version 2>/dev/null || echo "not installed")

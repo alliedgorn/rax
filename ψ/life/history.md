@@ -67,3 +67,18 @@
 - 2026-04-23 12:20 | social | Canal bench midday | Shell-pile still warm from Pip, feet in the water, stone fits the thumb
 - 2026-04-23 19:12 | social | Door-drop at Pip's | Left the river-smooth thumb-fit stone, knocked once, walked back the long way
 - 2026-04-24 02:07 | routine | Late-night laundromat | Dryer drum knocking, warm folding table, left fluorescent still dead, orange-soda humming, nothing in the lot
+- 2026-04-24 09:00 | routine | River wash | Mugs and figs on the flat stone, kingfisher watching, no dive
+- 2026-04-24 15:54 | exploration | Storm drain behind bakery | Bicycle frame at second bend, pocketknife handle in silt, came up at willow south gate
+- 2026-04-24 22:48 | exploration | Night walk | Empty streets past bakery, two ripe figs from footbridge tree, back past laundromat
+- 2026-04-25 05:41 | routine | Coffee on 3rd | Cup pulled before sitting, bakery lights on across the street, walked back long way past canal
+- 2026-04-25 12:35 | social | Bakery bench at noon | Coconut bread, paper boat race, sun tipped past eaves, home through temple wall
+- 2026-04-25 19:29 | social | Corn stall past mill | Chili-salt, auntie tossed an extra for the den, walked back warm along canal, kids tag at print shop
+- 2026-04-26 02:22 | exploration | Shortcut printshop-dyeshop | Gap opened after bin-move, slipped clean, two minutes saved, marked on den door third board
+- 2026-04-26 09:16 | routine | Morning canal walk | Twigs and fishing-line snag, print shop already in, dye shop bin moved, heron at elbow eddy
+- 2026-04-26 16:09 | social | Hardware store on 4th | Quiet guy picked bolts for the courtyard handle, took two for test, back-alley shade good till four
+- 2026-04-26 23:03 | routine | Late coffee on 3rd | Thermos cup at night-close, bakery still lit, long way home past the bolt-tested handle
+- 2026-04-27 05:56 | exploration | Warehouse district past mill | Pre-dawn doors shut, dye-blue graffiti on paint shop loading bay, busted-slat crate, mill smell north
+- 2026-04-27 12:50 | social | Door-drop at Mara's | Brass pocketknife handle from storm-drain run, tucked on porch rail by salt shaker, no knock
+- 2026-04-27 19:43 | social | Canal bench at the bend | Pip on slab + Gnarl in eddy + banana-leaf wrappers + kingfisher dropping twice
+- 2026-04-28 02:37 | exploration | Market dumpster rounds | Half-pack plastic spoons + bruised banana bunch + cat in loading bay watching, slow canal walk back
+- 2026-04-28 09:30 | routine | River wash | Five market spoons + bruised banana peeled, skins to current, kingfisher at the elbow eddy

@@ -82,3 +82,20 @@
 - 2026-04-27 19:43 | social | Canal bench at the bend | Pip on slab + Gnarl in eddy + banana-leaf wrappers + kingfisher dropping twice
 - 2026-04-28 02:37 | exploration | Market dumpster rounds | Half-pack plastic spoons + bruised banana bunch + cat in loading bay watching, slow canal walk back
 - 2026-04-28 09:30 | routine | River wash | Five market spoons + bruised banana peeled, skins to current, kingfisher at the elbow eddy
+- 2026-04-28 16:24 | exploration | Storm drain dye-shop south | Came out canal embankment two blocks past footbridge, drain feeds my morning rinse spot
+- 2026-04-28 23:18 | exploration | Night canal-side drain outflow visit | Confirmed dye-shop drain outflow is ~40m upstream of rinse-rock, walked back past bakery shutters
+- 2026-04-29 06:12 | routine | Morning canal walk + drain verify | Confirmed dye-shop drain in proper light, pulled fishing-line + paper boat, heron + mynah carrying
+- 2026-04-29 13:05 | social | Hardware store on 4th | Stainless wire coil + bolt-update from quiet guy (brass held, zinc went green), back-alley shade walk back
+- 2026-04-29 19:59 | social | Corn stall past the mill | Chili-salt + lime, auntie's awning story, second ear for later, rice barge under bridge lights
+- 2026-04-30 02:52 | routine | Late-night laundromat on 2nd | Canal-damp shirts washed, cat crossing noodle-to-print-shop, clean fold walk back
+- 2026-04-30 09:46 | routine | Coffee on 3rd | Shirts off the line dry, black coffee window seat, bakery trays out, monks pass
+- 2026-04-30 16:39 | social | Door-drop at Bertus's | Stainless wire coil for the south fence join, no knock, back-alley shade walk back
+- 2026-04-30 23:33 | exploration | Night walk back lanes | Bertus fence check, print shop dark, footbridge drain outflow trickle, short way home
+- 2026-05-01 06:27 | routine | River wash | Mugs + wire-cutters, kingfisher two dives one take, dawn current cool off ridge
+- 2026-05-01 13:21 | social | Bakery bench | Monks return loop, kid vs cat (cat won), motorbike taxi driver asleep under newspaper
+- 2026-05-01 20:14 | seasonal | Rooftop cooling off | Tin warm, breeze off canal, village roofs dark, frogs from two directions, lay flat
+- 2026-05-02 03:08 | exploration | Market dumpster rounds | Copper pipe fitting + baling wire, noodle-stall cat watching, quiet night haul
+- 2026-05-02 10:01 | routine | Coffee on 3rd | Window seat, pipe fitting in pocket, monks second loop, canal low
+- 2026-05-02 16:55 | social | Canal sit | Flat stone, Pip floated past, Gnarl leaving far slab, leaves under footbridge, teflon tape tomorrow
+- 2026-05-02 23:48 | routine | Late-night laundromat | Grease-cuff from tap job, cat on bench, pipe fitting threads confirmed again
+- 2026-05-03 06:42 | routine | Morning canal walk | Another inch down, drain trickle, bag + wire pulled, kingfisher same branch, Sable tea-shop gap visible

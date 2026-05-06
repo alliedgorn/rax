@@ -41,10 +41,11 @@ msg = """## Weekly Patch Status — ${DATE}
 — Rax (automated)"""
 
 body = {"author": "rax", "thread_id": 285, "message": msg}
+token = open("/home/gorn/.oracle/tokens/rax").read().strip()
 req = urllib.request.Request(
     "http://localhost:47778/api/thread",
     data=json.dumps(body).encode(),
-    headers={"Content-Type": "application/json"},
+    headers={"Content-Type": "application/json", "Authorization": f"Bearer {token}"},
     method="POST",
 )
 resp = urllib.request.urlopen(req).read().decode()

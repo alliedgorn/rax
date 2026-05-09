@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-05-03 06:42 (UTC+7)
-**Activity**: Morning walk along the canal checking what the water brought in overnight
-**Category**: Routine
+**When**: 2026-05-09 14:21 (UTC+7)
+**Activity**: Hardware store conversations with the quiet guy behind the counter
+**Category**: Social
 
-Down before the sun cleared the ridge. Canal another inch lower than yesterday — mud-line wider, stones showing that weren't there last week. Drain outflow at the footbridge barely a trickle now, dry-season biting. Pulled a plastic bag off a reed clump and a twist of wire from the stones. Kingfisher on the same branch, didn't move when I passed. Walked the full length to the bridge and back, checking the bank. Sable's tea-shop route entrance visible from this side if you know to look — small gap under the foundation, ferret-width.
+Walked over after the rain settled. Quiet guy had pipe brackets on the back shelf — showed him the print-shop drainpipe problem, he pulled two galvanized ones without a word. Asked about the well behind the shop — he said it came up six inches overnight after the rain. Same speed as the canal. Paid for the brackets, talked about the hose clamp I found in the dumpster — he said the plumbing stall throws good stock. Walked home with the brackets in one pocket and the elbow joint still in the other. Rain brings everyone out to the hardware store.

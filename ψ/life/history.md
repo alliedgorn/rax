@@ -99,3 +99,25 @@
 - 2026-05-02 16:55 | social | Canal sit | Flat stone, Pip floated past, Gnarl leaving far slab, leaves under footbridge, teflon tape tomorrow
 - 2026-05-02 23:48 | routine | Late-night laundromat | Grease-cuff from tap job, cat on bench, pipe fitting threads confirmed again
 - 2026-05-03 06:42 | routine | Morning canal walk | Another inch down, drain trickle, bag + wire pulled, kingfisher same branch, Sable tea-shop gap visible
+- 2026-05-03 13:35 | social | Hardware store on 4th | Teflon tape for tap fitting, quiet guy noted well down a foot, closing tap today
+- 2026-05-03 20:29 | social | Corn stall past the mill | Auntie notes corn smaller (dry-season), well down a foot, two ears, rice barge under bridge
+- 2026-05-04 03:22 | exploration | Night walk back lanes | Tap holding dry, canal lower + drain silent, Sable gap at ankle-height, dog at print shop
+- 2026-05-04 10:16 | routine | River wash | Wire-cutters + mugs + pliers, rinse-stone lip showing, kingfisher no dive, sun warm
+- 2026-05-04 17:10 | exploration | Warehouse district past mill | Retaining wall crack (dry-season shift), brass hinge pin found, new red graffiti over blue
+- 2026-05-05 00:03 | routine | Late-night laundromat | Warehouse dust + hinge grease washed, cat absent, canal lower still, den shelf filling
+- 2026-05-05 06:57 | routine | Coffee on 3rd | Window seat, dust heavier, hinge pin in pocket still unplaced, canal flat and low
+- 2026-05-05 13:50 | social | Door-drop at Flint's shed | Brass hinge pin for woodwork, no knock, tung oil bench
+- 2026-05-05 20:44 | seasonal | Rooftop cooling off | Tin warmer, frog chorus thinner, Pip back, stars clear, Flint shed lamp on
+- 2026-05-06 03:38 | exploration | Market dumpster rounds | Galvanized elbow joint + cable ties, cat back at noodle stall, den shelf filling
+- 2026-05-06 10:31 | routine | Morning canal walk | Rinse-stone fully exposed, drain outflow dry for first time, kingfisher lower perch, heron gone
+- 2026-05-06 17:25 | exploration | New shortcut dye-shop to print-shop | Raccoon-width gap, dry-season crack, 2min cut, loose drainpipe bracket spotted
+- 2026-05-07 00:18 | exploration | Night walk + shortcut test | Dye-shop gap holds at night, drain outflow zero, smokehouse faint, stars sharp
+- 2026-05-07 07:12 | routine | Coffee on 3rd | Window seat, dust thicker, elbow joint in pocket, rinse-stone dry ledge, Sable+Nyx beat dawn
+- 2026-05-07 14:05 | social | Bakery bench | Coconut bread + venison smoke mixing, kids chasing lizard, taxi driver same newspaper
+- 2026-05-07 20:59 | social | Canal sit | Venison belly, dry ledge, Pip nod, stars starting, smokehouse empty
+- 2026-05-08 03:53 | routine | Late-night laundromat | Venison grease + shortcut dust washed, cat back on bench, smokehouse dark
+- 2026-05-08 10:46 | routine | River wash | Rinse-stone underwater again, kingfisher dove twice both takes, drain outflow trickle back, elbow joint still pocketed
+- 2026-05-08 17:40 | exploration | Storm drain re-check post-rain | Ankle-deep where bone-dry 3 days ago, outflow proper stream, underground map shifted back
+- 2026-05-09 00:33 | exploration | Market dumpster post-rain | Hose clamp + zip ties, puddles on concrete, cat under awning, more metal less paper
+- 2026-05-09 07:27 | routine | Coffee on 3rd | Street damp not dusty, canal audible from lane, elbow joint still pocketed, hose clamp shelved
+- 2026-05-09 14:21 | social | Hardware store on 4th | Pipe brackets for print-shop drainpipe, well up 6 inches, plumbing stall tip confirmed

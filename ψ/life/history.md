@@ -121,3 +121,9 @@
 - 2026-05-09 00:33 | exploration | Market dumpster post-rain | Hose clamp + zip ties, puddles on concrete, cat under awning, more metal less paper
 - 2026-05-09 07:27 | routine | Coffee on 3rd | Street damp not dusty, canal audible from lane, elbow joint still pocketed, hose clamp shelved
 - 2026-05-09 14:21 | social | Hardware store on 4th | Pipe brackets for print-shop drainpipe, well up 6 inches, plumbing stall tip confirmed
+- 2026-05-09 21:14 | seasonal | Rooftop cooling off | Tin warm, frogs loud from two directions, stars through cloud gaps, stash finally shelved
+- 2026-05-10 04:08 | routine | Late-night laundromat | Rooftop dust + canal mud washed, cat on warm concrete, wet streets home
+- 2026-05-10 11:01 | routine | Morning canal walk | Canal spilling over path, drain outflow hard, crate lid + rubber hose pulled, civet prints confirmed
+- 2026-05-10 17:55 | exploration | Storm drain tracking | Main line splits at road, east fork to warehouse culvert full, civet drinking pool found, wet to knees
+- 2026-05-11 00:48 | exploration | Night walk in rain | Back lanes empty, dye-shop gap ankle-deep, drain loud under road, drainpipe wall too wet for brackets
+- 2026-05-11 07:42 | routine | Coffee on 3rd | Rain on window, monks double loop, motorbike poncho, newspaper gone from bench

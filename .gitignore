@@ -4,3 +4,4 @@ scripts/rag/.venv/
 
 # .env — per-Beast secrets (BEAST_TOKEN, etc.)
 .env
+sessions/f8783152-452b-47d3-ac83-35b3d3d5cfaa.jsonl.gz

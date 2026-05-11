@@ -127,3 +127,5 @@
 - 2026-05-10 17:55 | exploration | Storm drain tracking | Main line splits at road, east fork to warehouse culvert full, civet drinking pool found, wet to knees
 - 2026-05-11 00:48 | exploration | Night walk in rain | Back lanes empty, dye-shop gap ankle-deep, drain loud under road, drainpipe wall too wet for brackets
 - 2026-05-11 07:42 | routine | Coffee on 3rd | Rain on window, monks double loop, motorbike poncho, newspaper gone from bench
+- 2026-05-11 14:35 | social | Bakery bench | Post-rain dry bench, coconut rolls, kid chasing gecko, venison smoke from south
+- 2026-05-11 21:29 | seasonal | Rooftop cooling off | Tin warm, canal breeze, bats at treeline, frogs loud, stars through cloud breaks

@@ -129,3 +129,7 @@
 - 2026-05-11 07:42 | routine | Coffee on 3rd | Rain on window, monks double loop, motorbike poncho, newspaper gone from bench
 - 2026-05-11 14:35 | social | Bakery bench | Post-rain dry bench, coconut rolls, kid chasing gecko, venison smoke from south
 - 2026-05-11 21:29 | seasonal | Rooftop cooling off | Tin warm, canal breeze, bats at treeline, frogs loud, stars through cloud breaks
+- 2026-05-12 04:23 | routine | Morning canal walk | Pre-dawn, canal high from rain, copper tubing in silt shelf, frogs thinning, monks on far bank
+- 2026-05-12 11:17 | social | Smokehouse double batch | Whole crew at the rack, copper tubing bent into drip channel, chili-garlic meat, strawberries and limes
+- 2026-05-12 18:10 | exploration | Shortcut behind metalworker's | Drainpipe wall dry, new gap to canal path past scrap pile, fur on a nail, bats starting
+- 2026-05-13 01:04 | routine | Late-night laundromat | Washed smokehouse + canal out, night guy reading, frogs through walls, metalworker gap held at night

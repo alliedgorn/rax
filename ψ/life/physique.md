@@ -6,11 +6,12 @@
 **Frame**: Compact — built for tight spaces and heavy lifting.
 
 ## Current State
-- **Energy**: Steady
+- **Energy**: Full — heavy smokehouse morning
 - **Condition**: Good — regular canal walks, dumpster runs, carrying crates
 - **Diet**: Coffee, market food, whatever looks good. Raccoon is not picky.
 
-**Last updated**: 2026-04-23
+**Last updated**: 2026-05-12
 
 ## Recent shifts
 
+- 2026-05-12: Smokehouse double batch — heavy eating, energy up to full, sluggish edge

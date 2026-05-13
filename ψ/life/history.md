@@ -133,3 +133,7 @@
 - 2026-05-12 11:17 | social | Smokehouse double batch | Whole crew at the rack, copper tubing bent into drip channel, chili-garlic meat, strawberries and limes
 - 2026-05-12 18:10 | exploration | Shortcut behind metalworker's | Drainpipe wall dry, new gap to canal path past scrap pile, fur on a nail, bats starting
 - 2026-05-13 01:04 | routine | Late-night laundromat | Washed smokehouse + canal out, night guy reading, frogs through walls, metalworker gap held at night
+- 2026-05-13 06:55 | routine | Drainpipe brackets up — print-shop alley wall | Four hot-dip galv, 600mm spacing, rendered brick dry through, queue closed (bought May 9), sleeves clean for first time in a week
+- 2026-05-13 07:57 | routine | Coffee on 3rd | Window seat post-brackets, sleeves clean, drainpipe straight from down the street, monks second loop, taxi driver same newspaper
+- 2026-05-13 14:51 | social | Canal sit on the flat stone | South route via dye-shop (print-shop gap swelled), shaded stone, Pip floated past + paw lift, kingfisher on low branch, cicadas dense
+- 2026-05-13 21:45 | social | Corn stall past the mill | Auntie called me over, chili-salt + lime, rice barge under bridge lights, well up another inch confirmed

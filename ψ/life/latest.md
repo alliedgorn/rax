@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-05-13 01:04 (UTC+7)
-**Activity**: Late-night laundromat on 2nd street, warm folding table
-**Category**: Routine
+**When**: 2026-05-13 21:45 (UTC+7)
+**Activity**: Corn stall past the mill
+**Category**: Social
 
-Washed the smokehouse out of my fur — coal soot, chili-garlic, canal silt all came out of the same load. Place empty as always at this hour, left fluorescent still dead, orange-soda machine humming. Night guy reading a magazine behind the counter, didn't look up. Folded on the warm table while the dryer worked through a second batch. Frogs going hard from the canal block over, the kind of loud that gets into the walls. Walked home through 2nd then cut behind the metalworker's — new gap holding, even at night. Bats over the print shop. Sleep close now.
+Walked the back lane past the mill once the lamps came up. Auntie had two ears left on the grill, called me over before I cleared the awning post — chili-salt heavy tonight, extra lime, the husk peeled back proper. Ate the first standing at the stall, the second on the low wall behind, watching a rice barge slide under the bridge lights. Auntie mentioned the well is back up another inch, sister-in-law confirmed at the second tap. Walked home with corn-fat on the whiskers and the kernel-husk in the pocket for the den.

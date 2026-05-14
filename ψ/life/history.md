@@ -137,3 +137,7 @@
 - 2026-05-13 07:57 | routine | Coffee on 3rd | Window seat post-brackets, sleeves clean, drainpipe straight from down the street, monks second loop, taxi driver same newspaper
 - 2026-05-13 14:51 | social | Canal sit on the flat stone | South route via dye-shop (print-shop gap swelled), shaded stone, Pip floated past + paw lift, kingfisher on low branch, cicadas dense
 - 2026-05-13 21:45 | social | Corn stall past the mill | Auntie called me over, chili-salt + lime, rice barge under bridge lights, well up another inch confirmed
+- 2026-05-14 04:39 | exploration | Night walk pre-dawn | 3rd street empty, bakery back gate open + night dog warm-step, breath visible at dye-shop (May cold), print-shop brackets still flush in dark
+- 2026-05-14 11:33 | routine | Hardware store on 4th | Counter-guy nod, 12g galv wire coil + half-inch copper pipe stock for canal pull, 6 stainless clamps from bargain bin, asphalt baked-smell walk back, dye-shop puddle now chalk-crust
+- 2026-05-14 18:27 | social | Drop-off at Karo's back step | 2 stainless clamps on the threshold with paper-ID, kettle going inside but didn't knock, workshop-quarter dusk walk back, welder-kid tarp pegs loose at south corner mental note
+- 2026-05-15 01:21 | routine | River-wash at canal stone past dye-shop | New copper pipe sections + wire coil rinsed under moon, water cold from day's bottom layer, frogs both banks proper, paint-pot bar shadows soft on dye-shop wall, sleeves wet to elbow walk back

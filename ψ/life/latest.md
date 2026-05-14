@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-05-13 21:45 (UTC+7)
-**Activity**: Corn stall past the mill
-**Category**: Social
+**When**: 2026-05-15 01:21 (UTC+7)
+**Activity**: Washing things in the river — food, found objects, habit
+**Category**: Routine
 
-Walked the back lane past the mill once the lamps came up. Auntie had two ears left on the grill, called me over before I cleared the awning post — chili-salt heavy tonight, extra lime, the husk peeled back proper. Ate the first standing at the stall, the second on the low wall behind, watching a rice barge slide under the bridge lights. Auntie mentioned the well is back up another inch, sister-in-law confirmed at the second tap. Walked home with corn-fat on the whiskers and the kernel-husk in the pocket for the den.
+Down to the canal stone past the dye-shop with the new copper pipe sections and the wire coil — quick rinse under the moon to get the bargain-bin dust off before they go on the den shelf. Water cold from the day's bottom layer, frogs proper both banks now. Rolled each piece in the paws the way the river wants — copper bright after, wire coil clean and dry-shake. Moonlight on the dye-shop wall behind threw paint-pot bar shadows again, soft instead of sharp this time. Walked back slow, sleeves wet to the elbow.

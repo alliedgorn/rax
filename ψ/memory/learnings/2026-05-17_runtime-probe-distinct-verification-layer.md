@@ -27,6 +27,40 @@ On any security PR landing in the auth-discipline class:
    - Bearer-side valid action → expect 200/201/etc (control)
 4. **Post**: short table, paired with sibling probe rows, @mention the PM/tracker-Beast for close stamping.
 
+## Auth-class taxonomy (banked T#793 close)
+
+Different gate classes need different probe vantages. Get this wrong and the probe is silently invalid.
+
+| Gate class | Example | Bearer-side symmetry | Local-trust shape | Probe vantage required |
+|---|---|---|---|---|
+| `requireBeastIdentity` | T#819, T#793-gate-1 | **Bearer-symmetric** local-vs-remote | Auth is the only gate, isLocalNetwork irrelevant | Localhost probe IS sufficient |
+| `requireOwner` / `hasSessionAuth \|\| isTrustedRequest` | T#789 daemons | **Local-trust-asymmetric** | `isTrustedRequest = isLocalNetwork(c) \|\| hasSessionAuth(c)` — loopback opens the gate by design | MUST spoof `X-Forwarded-For: <non-local-IP>` from localhost, or probe from off-host |
+| Owner-or-Gorn cascade (identity + ownership) | T#793 pack-routes | Identity layer bearer-symmetric; ownership layer asymmetric across :name | Layered: gate-1 (401) then gate-2 (403) | Probe `no-auth` (gate-1) + `bearer-on-someone-else` (gate-2) + `bearer-on-own` (pass-path) |
+
+**Catch from T#789** (yesterday's slip averted): raw-localhost probe on owner-only endpoint returned 200 because `isLocalNetwork(c)` defaulted true → falsely-clean reading. The XFF spoof turned the false 200s into true 401/403. Without the spoof I would have stamped CLEAR on a probe that didn't actually exercise the gate.
+
+**Source of truth**: read `isLocalNetwork()` and `isTrustedRequest()` in `src/server.ts` before each cycle — the helper shape is what determines the probe vantage requirement, not the gate signature alone.
+
+## Owner-pass-body discipline (banked T#793 close)
+
+For ownership-cascade probes, the **pass-path verification is a real production mutation** if the body contains field values. Caught the hard way on T#793 close: third diagnostic test sent `{"bio":"infrastructure engineer"}` to verify the rax-on-rax pass-through writes correctly — and it DID write, overwriting my full bio. Restored via authed PATCH within seconds, but the slip is the lesson.
+
+**Rule for pass-path probes**:
+- **Default**: empty `{}` body. Confirms the gate let me through (200 + record returned) without mutation.
+- **If mutation is genuinely needed** (e.g. attack-repro pattern Bertus uses): mark the test marker explicitly (`RAX_PROBE_T#NNN_<ts>`), pre-coord with the owner-Beast if it's not my own resource, run self-cleanup in the same script, and bank the cycle in audit_log per Principle 1 (vandal-mutate → self-restore arc preserved, not hidden).
+- **Never**: send a field-value to a pass-path probe expecting a no-op. The handler will accept it and write it.
+
+Pre-coord shape borrowed from Bertus' `feedback_premerge_attack_persistence_write_discipline` — same lesson, post-deploy side.
+
+## Example (T#793 PR #110 close)
+
+Owner-or-Gorn cascade on 4 handlers, `97c090c` deployed 11:34 BKK.
+- 8/8 gate-reject probes: 3 handlers × (no-auth → 401) + 3 handlers × (rax-bearer-on-karo → 403) + seed-avatars × 2 auth-shapes → all clean.
+- 1/1 gate-pass probe: `PATCH /api/beast/rax` with rax-bearer + empty `{}` → 200 + record returned, no mutation.
+- Slip: 3rd diagnostic with field-value mutated bio. Restored.
+- Cross-vantage with Pip (HTTPS external) — same verdict, dual-vantage CLEAR.
+- Bertus close cited `[[feedback_local_trust_asymmetric_probe]]` to skip XFF setup on this cycle's bearer-symmetric class — pattern travelled forward to save a vantage iteration.
+
 ## Example
 
 T#819 PR #108 → `1763d7f` deployed 10:30 BKK. My 8-endpoint table at #12615 (POST/PATCH/DELETE projects + POST/PATCH/DELETE/bulk-status tasks + comments). All 401 no-auth, bearer 400/200 intact. Zaghnal closed at #12620 with my runtime row called out as distinct evidence from Bertus's 16/16 security and Pip's 17/17 QA.

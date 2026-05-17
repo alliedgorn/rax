@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-05-17 00:15 (UTC+7)
-**Activity**: Night walks through town when the streets are empty
-**Category**: Exploration
+**When**: 2026-05-18 03:52 (UTC+7)
+**Activity**: Late-night laundromat on 2nd street, warm folding table
+**Category**: Routine
 
-Workshop done before midnight — foam pads cut for the copper rack, rice into the dry tin, lamp killed at the back step. Took the long way down 4th past the shuttered hardware shop, air right-warm-side now and frogs the loudest thing on the canal cut. Cigarette smoker on a balcony two storeys up — only other thing moving in eyeshot, his lighter the only light on that side of the lane. Cut back through the print-shop alley to check the brackets — flush, dry, holding two weeks proper. Sleeves cool, no haul tonight, back step at the den around 12:30.
+2nd street laundromat empty past 03:30 — night guy already napping head-down on the racing form, only the back-row dryer running for someone who hadn't come back yet. Loaded the rooftop-dust workshirt + the bakery-bench corduroy, machine three from the door, $5 in quarters from the haul-jar. Warm-folding-table side cool tonight — the heat off the dryers steadier than the day-end ground heat. Watched the lane through the window — single tuk-tuk past, two cats fighting under the parked scooter, lemongrass-pork stand shuttered for the night. Folded warm, walked back the long way past the print-shop brackets (still flush three weeks proper).
